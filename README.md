@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hey 👋
+My name's Thomas and I'm a developer who focuses on full-stack development, game development, and robotics.
 <!--
 **Mr-Moody/Mr-Moody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
