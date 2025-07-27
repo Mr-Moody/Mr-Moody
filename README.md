@@ -1,5 +1,7 @@
-## Hey 👋
-My name's Thomas and I'm a developer who focuses on full-stack development, game development, and robotics.
+## Hey, I'm Thomas👋
+I'm a developer with a focus on full-stack development, game development, and robotics.
+
+- I'm currently studying MEng Robotics and AI at UCL.
 <!--
 **Mr-Moody/Mr-Moody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
