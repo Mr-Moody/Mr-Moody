@@ -1,5 +1,6 @@
 ## Hey, I'm Thomas👋
-I'm a second year MEng Robotics and AI student at UCL
+
+Robotics Engineer intern at Extend Robotics developing a novel framework for Tactile VLA. 2nd Year MEng Robotics and AI student at UCL. Autonomy Developer at MarshGazers. Independent researcher.
 <!--
 **Mr-Moody/Mr-Moody** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
